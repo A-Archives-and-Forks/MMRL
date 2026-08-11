@@ -1,0 +1,1 @@
+Magisk 및 KernelSU용 모듈 관리자.

@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="requireNewVersion_try_the_following">Probeer het volgende:</string>
+    <string name="requireNewVersion_try_the_following_two">Neem contact op met de moduleontwikkelaar voor een mogelijke oplossing.</string>
+    <string name="requireNewVersion_refresh">Vernieuwen</string>
+    <string name="requireNewVersion_cannot_load_webui">Kan WebUI niet laden</string>
+    <string name="requireNewVersion_require_text">vereist minimaal MMRL &gt;=</string>
+    <string name="requireNewVersion_try_the_following_one">Werk MMRL bij naar de nieuwste versie via Google Play of GitHub Releases.</string>
 </resources>

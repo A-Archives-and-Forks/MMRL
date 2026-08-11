@@ -1,0 +1,32 @@
+MMRL este o aplicație Android care te ajută să îți gestionezi propriul depozit de module.
+
+Funcționalități:
+- Gestionează-ți depozitul de module
+- Suportă mai multe depozite
+- Suportă Magisk și KernelSU
+- Jetpack Compose și Material Design 3
+
+https://github.com/DerGoogler/MMRL
+
+<i>Magisk Module Repo Loader</i> (MMRL) îți permite să încarci depozite Magisk personalizate printr-o interfață simplă. <a href="https://github.com/Magisk-Modules-Alt-Repo">Magisk Modules Alternative Repository</a> vine preconfigurat, iar depozitele personalizate pot fi adăugate.</p>
+
+<b>Ce manageri de root suportă MMRL?</b></p>
+
+* Magisk
+* KernelSU
+* APatch
+
+<b>Ce funcționalități oferă MMRL?</b>
+
+* Interfață prietenoasă
+* Pagini de module configurabile (ModConf)
+* Personalizarea tuturor căilor (cum ar fi "/data/adb/modules", dacă root-ul tău folosește altă cale)
+* ModConf Playground
+* Vizualizarea modulelor instalate și a celor cu actualizări
+* Adăugarea de coperți, capturi de ecran, verificare, dependențe și altele (în funcție de depozit)
+* Funcție de căutare
+* Adăugarea a până la 5 depozite
+
+Această aplicație necesită acces root, nu va funcționa fără el!
+
+Notă: Vei avea nevoie de MMRL-CLI pentru a instala alte module

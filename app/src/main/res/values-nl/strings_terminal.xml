@@ -1,3 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="service_is_not_available">! Service is niet beschikbaar</string>
+    <string name="unable_to_gather_module_info_of_file">! Kan module-informatie van bestand niet ophalen: %1$s</string>
+    <string name="cannot_install_blacklisted_modules_settings_security_blacklist_alerts">! Kan geen modules op de zwarte lijst installeren. Instellingen → Beveiliging → Zwartelijstmeldingen</string>
+    <string name="installation_aborted_due_to_an_error">! Installatie afgebroken vanwege een fout</string>
+    <string name="install_view_path">- Pad: %1$s</string>
+    <string name="copying_zip_to_temp_directory">- Zip naar tijdelijke map kopiëren</string>
+    <string name="install_view_module_info">::group::Module-info</string>
+    <string name="copying_failed">! Kopiëren mislukt</string>
+    <string name="unable_to_gather_module_info">! Kan module-informatie niet ophalen</string>
+    <string name="install_view_installing">- [color=primary]%1$s[/color] installeren</string>
+    <string name="module_not_found">[color=red]! Module niet gevonden.[/color]</string>
+    <string name="this_module_don_t_have_an_action">! Deze module heeft geen actie.</string>
+    <string name="module_is_disabled_or_removed_unable_to_execute_action">! Module is uitgeschakeld of verwijderd. Kan actie niet uitvoeren.</string>
+    <string name="execution_failed_try_to_use_shell_for_the_action_execution_settings_module_use_shell_for_module_action">- Uitvoering mislukt. Probeer Shell te gebruiken voor het uitvoeren van de actie, Instellingen → Module → Shell gebruiken voor module-actie.</string>
+    <string name="unable_to_find_path_for_uri">[color=red]! Kan pad voor uri niet vinden: %1$s[/color]</string>
+    <string name="is_not_a_module_file_magisk_modules_must_be_zip_files_skipping">! %1$s is geen modulebestand. Magisk-modules moeten .zip-bestanden zijn. Overslaan…</string>
+    <string name="removed_updated_folder">- Bijgewerkte map verwijderd</string>
+    <string name="failed_to_remove_updated_folder">[color=red]! Kan bijgewerkte map niet verwijderen[/color]</string>
+    <string name="non_root_platform_is_not_supported">[color=error]! Platforms zonder root worden niet ondersteund[/color]</string>
+    <string name="module_manager_is_null">! Modulebeheer is null</string>
+    <string name="file_manager_is_null">! Bestandsbeheer is null</string>
+    <string name="waiting_for_platformmanager_to_initialize">[bold]- Wachten tot PlatformManager is geïnitialiseerd…[/bold]</string>
+    <string name="failed_to_initialize_platform">[color=red]! Kan Platform niet initialiseren[/color]</string>
+    <string name="platform_initialized">[bold]- Platform geïnitialiseerd[/bold]</string>
+    <string name="platform_initialization_failed_cannot_install">[color=red]! Platforminitialisatie mislukt. Kan installatie niet voortzetten.[/color]</string>
+    <string name="platform_not_alive_cannot_install">[color=red]! Platform is niet actief. Kan installatie niet voortzetten.[/color]</string>
+    <string name="deleted_zip_file">- ZIP-bestand verwijderd: %s</string>
 </resources>

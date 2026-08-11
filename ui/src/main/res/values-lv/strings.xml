@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="cancel">Atcelt</string>
+    <string name="confirm">Apstiprināt</string>
+    <string name="loading">Ielādē…</string>
+    <string name="unknown_error">Nezināma kļūda</string>
+    <string name="search_placeholder">Meklēt…</string>
+    <string name="learn_more">Uzzināt vairāk</string>
+    <string name="select_a_option">Atlasiet opciju</string>
 </resources>

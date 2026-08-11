@@ -1,0 +1,32 @@
+MMRL ir Android lietotne, kas palīdz pārvaldīt jūsu paša moduļu repozitoriju.
+
+Iespējas:
+- Pārvaldiet savu moduļu repozitoriju
+- Atbalsts vairākiem repozitorijiem
+- Atbalsts Magisk un KernelSU
+- Jetpack Compose un Material Design 3
+
+https://github.com/DerGoogler/MMRL
+
+<i>Magisk Module Repo Loader</i> (MMRL) ļauj ielādēt pielāgotus Magisk repozitorijus ar vienkāršu lietotāja saskarni. <a href="https://github.com/Magisk-Modules-Alt-Repo">Magisk Modules Alternative Repository</a> ir jau iepriekš konfigurēts, un var pievienot pielāgotus repozitorijus.</p>
+
+<b>Kuri root pārvaldnieki atbalsta MMRL?</b></p>
+
+* Magisk
+* KernelSU
+* APatch
+
+<b>Kādas iespējas piedāvā MMRL?</b>
+
+* Lietotājam draudzīga saskarne
+* Konfigurējamas moduļu lapas (ModConf)
+* Visu ceļu pielāgošana (piemēram, "/data/adb/modules", ja jūsu root izmanto citu ceļu)
+* ModConf Playground
+* Instalēto un atjaunināmo moduļu skatīšana
+* Vāku, ekrānuzņēmumu, verifikācijas, atkarību un cita pievienošana (atkarībā no repozitorija)
+* Meklēšanas funkcionalitāte
+* Līdz 5 repozitoriju pievienošana
+
+Šai lietotnei ir nepieciešama root piekļuve, bez tās tā nedarbosies!
+
+Piezīme: Lai instalētu citus moduļus, jums būs nepieciešams MMRL-CLI

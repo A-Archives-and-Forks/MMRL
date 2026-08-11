@@ -1,3 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="search_results">
+        <item quantity="one">Ми знайшли [color=surface_tint]%1$s результат[/color], що відповідає вашому запиту</item>
+        <item quantity="few">Ми знайшли [color=surface_tint]%1$s результати[/color], що відповідають вашому запиту</item>
+        <item quantity="many">Ми знайшли [color=surface_tint]%1$s результатів[/color], що відповідають вашому запиту</item>
+        <item quantity="other">Ми знайшли [color=surface_tint]%1$s результатів[/color], що відповідають вашому запиту</item>
+    </plurals>
+    <plurals name="module_count_explore_repo">
+        <item quantity="one">%1$s модуль збережено</item>
+        <item quantity="few">%1$s модулі збережено</item>
+        <item quantity="many">%1$s модулів збережено</item>
+        <item quantity="other">%1$s модулів збережено</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">%1$d година</item>
+        <item quantity="few">%1$d години</item>
+        <item quantity="many">%1$d годин</item>
+        <item quantity="other">%1$d годин</item>
+    </plurals>
 </resources>

@@ -13,4 +13,19 @@
     <string name="tracking_desc">Šis modulis izseko un ziņo par jūsu aktivitātēm.</string>
     <string name="obfuscation_name">Pieslēpšana</string>
     <string name="obfuscation_desc">Moduļa pirmkods var būt pieslēpts, kas apgrūtina to izprast, auditēt vai veikt izmaiņas.</string>
+    <string name="knownvuln_desc">Šis modulis satur zināmu drošības ievainojamību.</string>
+    <string name="nonfreeassets_name">Nebrīvi resursi</string>
+    <string name="nonfreeassets_desc">Šis modulis satur nebrīvus resursus.</string>
+    <string name="nonfreedep_name">Nebrīvas atkarības</string>
+    <string name="nonfreedep_desc">Šis modulis ir atkarīgs no citiem nebrīviem moduļiem.</string>
+    <string name="nonfreenet_name">Nebrīvi tīkla pakalpojumi</string>
+    <string name="nonfreenet_desc">Šis modulis veicina vai pilnībā ir atkarīgs no nemaināma vai nebrīva tīkla pakalpojuma.</string>
+    <string name="upstreamnonfree_name">Sākotnējais avots nav brīvs</string>
+    <string name="upstreamnonfree_desc">Sākotnējā avota pirmkods nav pilnībā brīvs.</string>
+    <string name="unaskedremoval_name">Nepieprasīta noņemšana</string>
+    <string name="unaskedremoval_desc">Modulis noņem lietotnes, failus vai citus moduļus bez lietotāja piekrišanas.</string>
+    <string name="llm_name">Lielais valodas modelis</string>
+    <string name="llm_desc">Modulis var būt daļēji vai pilnībā rakstīts, izmantojot LLM</string>
+    <string name="closedsource_name">Slēgts pirmkods</string>
+    <string name="closedsource_desc">Modulis nav atvērtā pirmkoda, un tā koda bāze nav publiski pieejama pārskatīšanai, mainīšanai vai izplatīšanai</string>
 </resources>

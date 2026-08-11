@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="search_results">
+        <item quantity="one">We hebben [color=surface_tint]%1$s resultaat[/color] gevonden dat overeenkomt met je zoekopdracht</item>
+        <item quantity="other">We hebben [color=surface_tint]%1$s resultaten[/color] gevonden die overeenkomen met je zoekopdracht</item>
+    </plurals>
+    <plurals name="module_count_explore_repo">
+        <item quantity="one">%1$s module opgeslagen</item>
+        <item quantity="other">%1$s modules opgeslagen</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">%1$d uur</item>
+        <item quantity="other">%1$d uren</item>
+    </plurals>
 </resources>

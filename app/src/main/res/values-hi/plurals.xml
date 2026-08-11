@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="search_results">
+        <item quantity="one">हमें आपकी खोज से मेल खाने वाला [color=surface_tint]%1$s परिणाम[/color] मिला</item>
+        <item quantity="other">हमें आपकी खोज से मेल खाने वाले [color=surface_tint]%1$s परिणाम[/color] मिले</item>
+    </plurals>
+    <plurals name="module_count_explore_repo">
+        <item quantity="one">%1$s मॉड्यूल संग्रहीत</item>
+        <item quantity="other">%1$s मॉड्यूल संग्रहीत</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">%1$d घंटा</item>
+        <item quantity="other">%1$d घंटे</item>
+    </plurals>
 </resources>

@@ -1,3 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ads_name">광고</string>
+    <string name="ads_desc">이 모듈에는 광고가 포함되어 있습니다.</string>
+    <string name="knownvuln_name">알려진 취약점</string>
+    <string name="knownvuln_desc">이 모듈에는 알려진 보안 취약점이 포함되어 있습니다.</string>
+    <string name="nsfw_name">NSFW</string>
+    <string name="nsfw_desc">이 모듈에는 공개하거나 어디서나 보이면 안 되는 콘텐츠가 포함되어 있습니다.</string>
+    <string name="nosourcesince_name">소스 제공 중단</string>
+    <string name="nosourcesince_desc">소스 코드가 더 이상 제공되지 않아 업데이트가 불가능합니다.</string>
+    <string name="nonfreeadd_name">비자유 애드온</string>
+    <string name="nonfreeadd_desc">이 모듈은 비자유(non-free) 애드온을 홍보합니다.</string>
+    <string name="nonfreeassets_name">비자유 에셋</string>
+    <string name="nonfreeassets_desc">이 모듈에는 비자유(non-free) 에셋이 포함되어 있습니다.</string>
+    <string name="nonfreedep_name">비자유 종속성</string>
+    <string name="nonfreedep_desc">이 모듈은 다른 비자유(non-free) 모듈에 의존합니다.</string>
+    <string name="nonfreenet_name">비자유 네트워크 서비스</string>
+    <string name="nonfreenet_desc">이 모듈은 변경할 수 없거나 비자유(non-free)인 네트워크 서비스를 홍보하거나 전적으로 의존합니다.</string>
+    <string name="tracking_name">추적</string>
+    <string name="tracking_desc">이 모듈은 사용자의 활동을 추적하고 보고합니다.</string>
+    <string name="upstreamnonfree_name">업스트림 비자유</string>
+    <string name="upstreamnonfree_desc">업스트림 소스 코드가 완전히 자유(free) 소프트웨어가 아닙니다.</string>
+    <string name="obfuscation_name">난독화</string>
+    <string name="obfuscation_desc">모듈 소스 코드가 난독화되어 이해, 감사 또는 수정이 어려울 수 있습니다.</string>
+    <string name="unaskedremoval_name">동의 없는 제거</string>
+    <string name="unaskedremoval_desc">이 모듈은 사용자 동의 없이 앱, 파일 또는 다른 모듈을 제거합니다.</string>
+    <string name="llm_name">대규모 언어 모델</string>
+    <string name="llm_desc">이 모듈은 일부 또는 전체가 LLM에 의해 작성되었을 수 있습니다</string>
+    <string name="closedsource_name">비공개 소스</string>
+    <string name="closedsource_desc">이 모듈은 오픈 소스가 아니며, 코드베이스가 검토, 수정 또는 재배포를 위해 공개되어 있지 않습니다</string>
 </resources>

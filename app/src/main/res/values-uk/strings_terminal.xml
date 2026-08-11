@@ -1,3 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="service_is_not_available">! Служба недоступна</string>
+    <string name="unable_to_gather_module_info_of_file">! Не вдалося отримати інформацію про модуль з файлу: %1$s</string>
+    <string name="cannot_install_blacklisted_modules_settings_security_blacklist_alerts">! Неможливо встановити модулі з чорного списку. Налаштування → Безпека → Сповіщення чорного списку</string>
+    <string name="installation_aborted_due_to_an_error">! Встановлення перервано через помилку</string>
+    <string name="install_view_path">- Шлях: %1$s</string>
+    <string name="copying_zip_to_temp_directory">- Копіювання zip до тимчасової теки</string>
+    <string name="install_view_module_info">::group::Інформація про модуль</string>
+    <string name="copying_failed">! Не вдалося скопіювати</string>
+    <string name="unable_to_gather_module_info">! Не вдалося отримати інформацію про модуль</string>
+    <string name="install_view_installing">- Встановлення [color=primary]%1$s[/color]</string>
+    <string name="module_not_found">[color=red]! Модуль не знайдено.[/color]</string>
+    <string name="this_module_don_t_have_an_action">! Цей модуль не має дії.</string>
+    <string name="module_is_disabled_or_removed_unable_to_execute_action">! Модуль вимкнено або видалено. Неможливо виконати дію.</string>
+    <string name="execution_failed_try_to_use_shell_for_the_action_execution_settings_module_use_shell_for_module_action">- Не вдалося виконати. Спробуйте використати Shell для виконання дії, Налаштування → Модуль → Використовувати Shell для дії модуля.</string>
+    <string name="unable_to_find_path_for_uri">[color=red]! Не вдалося знайти шлях для uri: %1$s[/color]</string>
+    <string name="is_not_a_module_file_magisk_modules_must_be_zip_files_skipping">! %1$s не є файлом модуля. Модулі Magisk мають бути файлами .zip. Пропускається…</string>
+    <string name="removed_updated_folder">- Оновлену теку видалено</string>
+    <string name="failed_to_remove_updated_folder">[color=red]! Не вдалося видалити оновлену теку[/color]</string>
+    <string name="non_root_platform_is_not_supported">[color=error]! Платформи без root не підтримуються[/color]</string>
+    <string name="module_manager_is_null">! Менеджер модулів дорівнює null</string>
+    <string name="file_manager_is_null">! Менеджер файлів дорівнює null</string>
+    <string name="waiting_for_platformmanager_to_initialize">[bold]- Очікування ініціалізації PlatformManager…[/bold]</string>
+    <string name="failed_to_initialize_platform">[color=red]! Не вдалося ініціалізувати Platform[/color]</string>
+    <string name="platform_initialized">[bold]- Platform ініціалізовано[/bold]</string>
+    <string name="platform_initialization_failed_cannot_install">[color=red]! Не вдалося ініціалізувати Platform. Неможливо продовжити встановлення.[/color]</string>
+    <string name="platform_not_alive_cannot_install">[color=red]! Platform неактивна. Неможливо продовжити встановлення.[/color]</string>
+    <string name="deleted_zip_file">- Видалено ZIP-файл: %s</string>
 </resources>

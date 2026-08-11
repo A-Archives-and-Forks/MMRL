@@ -212,7 +212,7 @@
     <string name="settings_hide_fingerprint_desc">لا يختلف الأمر ما إذا كانت حقيقية أو مزيفة</string>
     <string name="settings_developer_mode">وضع المطور</string>
     <string name="settings_include_preleases">تضمين الإصدارات المُسْبَّقَة</string>
-    <string name="settings_developer_mode_desc">يقوم بإظهار معرف الإضافة و المزيد</string>
+    <string name="settings_developer_mode_desc">يقوم بإظهار [color=primary]معرف[/color] الإضافة و المزيد</string>
     <string name="settings_privacy_policy">سياسة الخصوصية</string>
     <string name="settings_clear_install_terminal">مسح واجهة المستخدم الطرفية للتثبيت</string>
     <string name="settings_shell_module_state_change">استخدام shell</string>
@@ -456,4 +456,19 @@
     <string name="profile_name">اسم ملف التعريف</string>
     <string name="profile_groups">مجموعة</string>
     <string name="profile_selinux_rules">قواعد SELinux</string>
+    <string name="profile_selinux_rules_invalid">قواعد غير صالحة!</string>
+    <string name="profile_capabilities">القدرات</string>
+    <string name="profile_selinux">SELinux</string>
+    <string name="profile_selinux_context">سياق SELinux</string>
+    <string name="profile_selinux_context_invalid">سياق غير صالح!</string>
+    <string name="settings_umount_modules_default">إلغاء تركيب الإضافات</string>
+    <string name="settings_umount_modules_default_desc">القيمة الافتراضية العامة لـ \"إلغاء تركيب الإضافات\" في ملف تعريف التطبيق. إذا تم التفعيل، ستتم إزالة جميع تعديلات الإضافات على النظام للتطبيقات التي ليس لها ملف تعريف محدد.</string>
+    <string name="profile_selinux_domain">النطاق</string>
+    <string name="profile_namespace">مساحة اسم التركيب</string>
+    <string name="profile_namespace_inherited">موروث</string>
+    <string name="profile_namespace_global">عام</string>
+    <string name="profile_namespace_individual">فردي</string>
+    <string name="empty">فارغ</string>
+    <string name="settings_disable_su">تعطيل توافق su</string>
+    <string name="settings_disable_su_desc">تعطيل قدرة أي تطبيق مؤقتًا على الحصول على صلاحيات الجذر عبر أمر su (لن تتأثر عمليات الجذر الحالية).</string>
 </resources>

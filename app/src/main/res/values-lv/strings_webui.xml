@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="requireNewVersion_cannot_load_webui">Nevar ielādēt WebUI</string>
+    <string name="requireNewVersion_require_text">nepieciešams vismaz MMRL &gt;=</string>
+    <string name="requireNewVersion_try_the_following">Izmēģiniet sekojošo:</string>
+    <string name="requireNewVersion_try_the_following_one">Atjauniniet MMRL uz jaunāko versiju no Google Play vai GitHub izlaidumiem.</string>
+    <string name="requireNewVersion_try_the_following_two">Sazinieties ar moduļa izstrādātāju, lai atrastu iespējamo risinājumu.</string>
+    <string name="requireNewVersion_refresh">Atsvaidzināt</string>
 </resources>

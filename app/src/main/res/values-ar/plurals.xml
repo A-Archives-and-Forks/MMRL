@@ -16,4 +16,12 @@
         <item quantity="many">%1$d ساعة</item>
         <item quantity="other">%1$d ساعة</item>
     </plurals>
+    <plurals name="search_results">
+        <item quantity="zero">لقد وجدنا [color=surface_tint]%1$s نتيجة[/color] تطابق بحثك</item>
+        <item quantity="one">لقد وجدنا [color=surface_tint]%1$s نتيجة[/color] تطابق بحثك</item>
+        <item quantity="two">لقد وجدنا [color=surface_tint]%1$s نتيجتين[/color] تطابق بحثك</item>
+        <item quantity="few">لقد وجدنا [color=surface_tint]%1$s نتائج[/color] تطابق بحثك</item>
+        <item quantity="many">لقد وجدنا [color=surface_tint]%1$s نتيجة[/color] تطابق بحثك</item>
+        <item quantity="other">لقد وجدنا [color=surface_tint]%1$s نتيجة[/color] تطابق بحثك</item>
+    </plurals>
 </resources>

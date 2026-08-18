@@ -1,3 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="search_results">
+        <item quantity="one">We\'ve found [color=surface_tint]%1$s rezultat[/color] care corespunde căutării tale</item>
+        <item quantity="few">We\'ve found [color=surface_tint]%1$s rezultate[/color] care corespund căutării tale</item>
+        <item quantity="other">We\'ve found [color=surface_tint]%1$s de rezultate[/color] care corespund căutării tale</item>
+    </plurals>
+    <plurals name="module_count_explore_repo">
+        <item quantity="one">%1$s modul stocat</item>
+        <item quantity="few">%1$s module stocate</item>
+        <item quantity="other">%1$s de module stocate</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">%1$d oră</item>
+        <item quantity="few">%1$d ore</item>
+        <item quantity="other">%1$d de ore</item>
+    </plurals>
 </resources>

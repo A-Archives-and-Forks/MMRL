@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="confirm">Bevestigen</string>
+    <string name="cancel">Annuleren</string>
+    <string name="loading">Laden…</string>
+    <string name="unknown_error">Onbekende fout</string>
+    <string name="search_placeholder">Zoeken…</string>
+    <string name="learn_more">Meer informatie</string>
+    <string name="select_a_option">Selecteer een optie</string>
 </resources>

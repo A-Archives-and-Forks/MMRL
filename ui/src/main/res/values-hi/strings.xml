@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="confirm">पुष्टि करें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="loading">लोड हो रहा है…</string>
+    <string name="unknown_error">अज्ञात त्रुटि</string>
+    <string name="learn_more">और जानें</string>
+    <string name="search_placeholder">खोजें…</string>
+    <string name="select_a_option">एक विकल्प चुनें</string>
 </resources>

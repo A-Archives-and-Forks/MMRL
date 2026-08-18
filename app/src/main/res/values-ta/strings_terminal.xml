@@ -9,9 +9,22 @@
     <string name="install_view_module_info">::group::தொகுதி தகவல்</string>
     <string name="copying_failed">! நகலெடுப்பது தோல்வியுற்றது</string>
     <string name="unable_to_gather_module_info">! தொகுதி தகவலை சேகரிக்க முடியவில்லை</string>
-    <string name="install_view_installing">- %1$s ஐ நிறுவுதல்</string>
-    <string name="module_not_found">! தொகுதி கிடைக்கவில்லை.</string>
+    <string name="install_view_installing">- [color=primary]%1$s[/color] ஐ நிறுவுதல்</string>
+    <string name="module_not_found">[color=red]! தொகுதி கிடைக்கவில்லை.[/color]</string>
     <string name="this_module_don_t_have_an_action">! இந்த தொகுதிக்கு ஒரு செயல் இல்லை.</string>
     <string name="module_is_disabled_or_removed_unable_to_execute_action">! தொகுதி முடக்கப்பட்டுள்ளது அல்லது அகற்றப்பட்டது. செயலை செயல்படுத்த முடியவில்லை.</string>
     <string name="execution_failed_try_to_use_shell_for_the_action_execution_settings_module_use_shell_for_module_action">- சாவுஒறுப்பு தோல்வியடைந்தது. செயல் செயலாக்கத்திற்கு செல் பயன்படுத்த முயற்சிக்கவும், அமைப்புகள் → தொகுதி மோட் தொகுதி செயலுக்கு செல்லைப் பயன்படுத்தவும்.</string>
+    <string name="unable_to_find_path_for_uri">[color=red]! uri க்கான பாதையைக் கண்டறிய முடியவில்லை: %1$s[/color]</string>
+    <string name="is_not_a_module_file_magisk_modules_must_be_zip_files_skipping">! %1$s ஒரு தொகுதி கோப்பு அல்ல. Magisk தொகுதிகள் .zip கோப்புகளாக இருக்க வேண்டும். தவிர்க்கப்படுகிறது…</string>
+    <string name="removed_updated_folder">- புதுப்பிக்கப்பட்ட கோப்புறை அகற்றப்பட்டது</string>
+    <string name="failed_to_remove_updated_folder">[color=red]! புதுப்பிக்கப்பட்ட கோப்புறையை அகற்ற முடியவில்லை[/color]</string>
+    <string name="non_root_platform_is_not_supported">[color=error]! ரூட் செய்யப்படாத தளங்கள் ஆதரிக்கப்படவில்லை[/color]</string>
+    <string name="module_manager_is_null">! தொகுதி நிர்வாகி null ஆக உள்ளது</string>
+    <string name="file_manager_is_null">! கோப்பு நிர்வாகி null ஆக உள்ளது</string>
+    <string name="waiting_for_platformmanager_to_initialize">[bold]- PlatformManager துவங்குவதற்காக காத்திருக்கிறது…[/bold]</string>
+    <string name="failed_to_initialize_platform">[color=red]! Platform ஐ துவக்க முடியவில்லை[/color]</string>
+    <string name="platform_initialized">[bold]- Platform துவக்கப்பட்டது[/bold]</string>
+    <string name="platform_initialization_failed_cannot_install">[color=red]! Platform துவக்கம் தோல்வியடைந்தது. நிறுவலைத் தொடர முடியாது.[/color]</string>
+    <string name="platform_not_alive_cannot_install">[color=red]! Platform செயலில் இல்லை. நிறுவலைத் தொடர முடியாது.[/color]</string>
+    <string name="deleted_zip_file">- ZIP கோப்பு நீக்கப்பட்டது: %s</string>
 </resources>

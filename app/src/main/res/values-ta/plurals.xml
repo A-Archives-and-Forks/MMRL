@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="search_results">
+        <item quantity="one">உங்கள் தேடலுடன் பொருந்தும் [color=surface_tint]%1$s முடிவை[/color] கண்டறிந்துள்ளோம்</item>
+        <item quantity="other">உங்கள் தேடலுடன் பொருந்தும் [color=surface_tint]%1$s முடிவுகளை[/color] கண்டறிந்துள்ளோம்</item>
+    </plurals>
+    <plurals name="module_count_explore_repo">
+        <item quantity="one">%1$s தொகுதி சேமிக்கப்பட்டது</item>
+        <item quantity="other">%1$s தொகுதிகள் சேமிக்கப்பட்டன</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">%1$d மணிநேரம்</item>
+        <item quantity="other">%1$d மணிநேரங்கள்</item>
+    </plurals>
 </resources>

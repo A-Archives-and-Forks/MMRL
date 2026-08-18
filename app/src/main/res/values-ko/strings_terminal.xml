@@ -1,3 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="service_is_not_available">! 서비스를 사용할 수 없습니다</string>
+    <string name="unable_to_gather_module_info_of_file">! 파일의 모듈 정보를 수집할 수 없습니다: %1$s</string>
+    <string name="cannot_install_blacklisted_modules_settings_security_blacklist_alerts">! 블랙리스트에 등록된 모듈은 설치할 수 없습니다. 설정 → 보안 → 블랙리스트 알림</string>
+    <string name="installation_aborted_due_to_an_error">! 오류로 인해 설치가 중단되었습니다</string>
+    <string name="install_view_path">- 경로: %1$s</string>
+    <string name="copying_zip_to_temp_directory">- 임시 디렉터리로 zip 복사 중</string>
+    <string name="install_view_module_info">::group::모듈 정보</string>
+    <string name="copying_failed">! 복사에 실패했습니다</string>
+    <string name="unable_to_gather_module_info">! 모듈 정보를 수집할 수 없습니다</string>
+    <string name="install_view_installing">- [color=primary]%1$s[/color] 설치 중</string>
+    <string name="module_not_found">[color=red]! 모듈을 찾을 수 없습니다.[/color]</string>
+    <string name="this_module_don_t_have_an_action">! 이 모듈에는 작업(action)이 없습니다.</string>
+    <string name="module_is_disabled_or_removed_unable_to_execute_action">! 모듈이 비활성화되었거나 제거되었습니다. 작업을 실행할 수 없습니다.</string>
+    <string name="execution_failed_try_to_use_shell_for_the_action_execution_settings_module_use_shell_for_module_action">- 실행에 실패했습니다. 작업 실행에 Shell을 사용해 보세요. 설정 → 모듈 → 모듈 작업에 Shell 사용.</string>
+    <string name="unable_to_find_path_for_uri">[color=red]! uri의 경로를 찾을 수 없습니다: %1$s[/color]</string>
+    <string name="is_not_a_module_file_magisk_modules_must_be_zip_files_skipping">! %1$s은(는) 모듈 파일이 아닙니다. Magisk 모듈은 .zip 파일이어야 합니다. 건너뜁니다…</string>
+    <string name="removed_updated_folder">- 업데이트된 폴더를 제거했습니다</string>
+    <string name="failed_to_remove_updated_folder">[color=red]! 업데이트된 폴더 제거에 실패했습니다[/color]</string>
+    <string name="non_root_platform_is_not_supported">[color=error]! 루팅되지 않은 플랫폼은 지원되지 않습니다[/color]</string>
+    <string name="module_manager_is_null">! 모듈 관리자가 null입니다</string>
+    <string name="file_manager_is_null">! 파일 관리자가 null입니다</string>
+    <string name="waiting_for_platformmanager_to_initialize">[bold]- PlatformManager 초기화를 기다리는 중…[/bold]</string>
+    <string name="failed_to_initialize_platform">[color=red]! Platform 초기화에 실패했습니다[/color]</string>
+    <string name="platform_initialized">[bold]- Platform이 초기화되었습니다[/bold]</string>
+    <string name="platform_initialization_failed_cannot_install">[color=red]! Platform 초기화에 실패했습니다. 설치를 진행할 수 없습니다.[/color]</string>
+    <string name="platform_not_alive_cannot_install">[color=red]! Platform이 활성 상태가 아닙니다. 설치를 진행할 수 없습니다.[/color]</string>
+    <string name="deleted_zip_file">- ZIP 파일을 삭제했습니다: %s</string>
 </resources>

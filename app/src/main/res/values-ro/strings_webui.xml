@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="requireNewVersion_try_the_following">Încercați următoarele:</string>
+    <string name="requireNewVersion_try_the_following_two">Contactați dezvoltatorul modulului pentru o posibilă soluție.</string>
+    <string name="requireNewVersion_refresh">Reîmprospătare</string>
+    <string name="requireNewVersion_cannot_load_webui">Nu se poate încărca WebUI</string>
+    <string name="requireNewVersion_require_text">necesită cel puțin MMRL &gt;=</string>
+    <string name="requireNewVersion_try_the_following_one">Actualizați MMRL la cea mai recentă versiune din Google Play sau GitHub Releases.</string>
 </resources>

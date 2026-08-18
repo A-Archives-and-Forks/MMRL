@@ -1,0 +1,1 @@
+Un manager de module pentru Magisk și KernelSU.

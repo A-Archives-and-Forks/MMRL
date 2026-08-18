@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="requireNewVersion_try_the_following">निम्नलिखित आज़माएँ:</string>
+    <string name="requireNewVersion_try_the_following_two">संभावित समाधान के लिए मॉड्यूल डेवलपर से संपर्क करें।</string>
+    <string name="requireNewVersion_refresh">रीफ़्रेश करें</string>
+    <string name="requireNewVersion_cannot_load_webui">WebUI लोड नहीं हो सका</string>
+    <string name="requireNewVersion_require_text">कम से कम MMRL &gt;= की आवश्यकता है</string>
+    <string name="requireNewVersion_try_the_following_one">MMRL को Google Play या GitHub Releases से नवीनतम संस्करण में अपडेट करें।</string>
 </resources>

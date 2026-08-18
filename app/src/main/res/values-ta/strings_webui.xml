@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="requireNewVersion_try_the_following">பின்வருவனவற்றை முயற்சிக்கவும்:</string>
+    <string name="requireNewVersion_try_the_following_two">சாத்தியமான தீர்வுக்கு தொகுதி உருவாக்குநரைத் தொடர்பு கொள்ளவும்.</string>
+    <string name="requireNewVersion_refresh">புதுப்பி</string>
+    <string name="requireNewVersion_cannot_load_webui">WebUI ஐ ஏற்ற முடியவில்லை</string>
+    <string name="requireNewVersion_require_text">குறைந்தபட்சம் MMRL &gt;= தேவை</string>
+    <string name="requireNewVersion_try_the_following_one">Google Play அல்லது GitHub Releases இலிருந்து MMRL ஐ சமீபத்திய பதிப்பிற்குப் புதுப்பிக்கவும்.</string>
 </resources>

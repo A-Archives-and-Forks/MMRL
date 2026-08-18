@@ -2,4 +2,30 @@
 <resources>
     <string name="ads_name">प्रचार</string>
     <string name="ads_desc">मोड्यूल में प्रचार हैं।</string>
+    <string name="knownvuln_name">ज्ञात सुरक्षा भेद्यता</string>
+    <string name="knownvuln_desc">इस मोड्यूल में एक ज्ञात सुरक्षा भेद्यता है।</string>
+    <string name="nsfw_name">NSFW</string>
+    <string name="nsfw_desc">इस मोड्यूल में ऐसी सामग्री है जिसे सार्वजनिक नहीं किया जाना चाहिए या हर जगह दिखाई नहीं देना चाहिए।</string>
+    <string name="nosourcesince_name">अब स्रोत उपलब्ध नहीं</string>
+    <string name="nosourcesince_desc">स्रोत कोड अब उपलब्ध नहीं है, कोई अपडेट संभव नहीं।</string>
+    <string name="nonfreeadd_name">गैर-मुक्त ऐड-ऑन</string>
+    <string name="nonfreeadd_desc">यह मोड्यूल गैर-मुक्त ऐड-ऑन को बढ़ावा देता है।</string>
+    <string name="nonfreeassets_name">गैर-मुक्त एसेट</string>
+    <string name="nonfreeassets_desc">इस मोड्यूल में गैर-मुक्त एसेट हैं।</string>
+    <string name="nonfreedep_name">गैर-मुक्त निर्भरताएँ</string>
+    <string name="nonfreedep_desc">यह मोड्यूल अन्य गैर-मुक्त मोड्यूल पर निर्भर करता है।</string>
+    <string name="nonfreenet_name">गैर-मुक्त नेटवर्क सेवाएँ</string>
+    <string name="nonfreenet_desc">यह मोड्यूल पूरी तरह से किसी अपरिवर्तनीय या गैर-मुक्त नेटवर्क सेवा को बढ़ावा देता है या उस पर निर्भर करता है।</string>
+    <string name="tracking_name">ट्रैकिंग</string>
+    <string name="tracking_desc">यह मोड्यूल आपकी गतिविधि को ट्रैक करता है और उसकी रिपोर्ट करता है।</string>
+    <string name="upstreamnonfree_name">अपस्ट्रीम गैर-मुक्त</string>
+    <string name="upstreamnonfree_desc">अपस्ट्रीम स्रोत कोड पूरी तरह से मुक्त नहीं है।</string>
+    <string name="obfuscation_name">अस्पष्टीकरण</string>
+    <string name="obfuscation_desc">मोड्यूल का स्रोत कोड अस्पष्ट किया जा सकता है, जिससे उसे समझना, ऑडिट करना या संशोधित करना कठिन हो जाता है।</string>
+    <string name="unaskedremoval_name">बिना अनुमति हटाना</string>
+    <string name="unaskedremoval_desc">यह मोड्यूल उपयोगकर्ता की सहमति के बिना ऐप, फ़ाइलें या अन्य मोड्यूल हटा देता है।</string>
+    <string name="llm_name">लार्ज लैंग्वेज मॉडल</string>
+    <string name="llm_desc">यह मोड्यूल आंशिक या पूर्ण रूप से किसी LLM द्वारा लिखा गया हो सकता है</string>
+    <string name="closedsource_name">क्लोज्ड सोर्स</string>
+    <string name="closedsource_desc">यह मोड्यूल ओपन सोर्स नहीं है, और इसका कोडबेस समीक्षा, संशोधन या पुनर्वितरण के लिए जनता के लिए सुलभ नहीं है</string>
 </resources>

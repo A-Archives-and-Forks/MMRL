@@ -1,3 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="search_results">
+        <item quantity="zero">Mēs atradām [color=surface_tint]%1$s rezultātu[/color], kas atbilst jūsu meklējumam</item>
+        <item quantity="one">Mēs atradām [color=surface_tint]%1$s rezultātu[/color], kas atbilst jūsu meklējumam</item>
+        <item quantity="other">Mēs atradām [color=surface_tint]%1$s rezultātus[/color], kas atbilst jūsu meklējumam</item>
+    </plurals>
+    <plurals name="module_count_explore_repo">
+        <item quantity="zero">%1$s moduļu saglabāts</item>
+        <item quantity="one">%1$s modulis saglabāts</item>
+        <item quantity="other">%1$s moduļi saglabāti</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="zero">%1$d stundu</item>
+        <item quantity="one">%1$d stunda</item>
+        <item quantity="other">%1$d stundas</item>
+    </plurals>
 </resources>

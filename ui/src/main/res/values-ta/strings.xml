@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="confirm">உறுதிப்படுத்து</string>
+    <string name="cancel">ரத்துசெய்</string>
+    <string name="loading">ஏற்றுகிறது…</string>
+    <string name="unknown_error">அறியப்படாத பிழை</string>
+    <string name="learn_more">மேலும் அறிக</string>
+    <string name="search_placeholder">தேடுங்கள்…</string>
+    <string name="select_a_option">ஒரு விருப்பத்தைத் தேர்ந்தெடுக்கவும்</string>
 </resources>

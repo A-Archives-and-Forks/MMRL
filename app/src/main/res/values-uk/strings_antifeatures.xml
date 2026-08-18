@@ -1,3 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ads_name">Реклама</string>
+    <string name="ads_desc">Модуль містить рекламу.</string>
+    <string name="knownvuln_name">Відома вразливість</string>
+    <string name="knownvuln_desc">Цей модуль містить відому вразливість безпеки.</string>
+    <string name="nsfw_name">NSFW</string>
+    <string name="nsfw_desc">Цей модуль містить вміст, який не слід публікувати чи показувати всюди.</string>
+    <string name="nosourcesince_name">Немає вихідного коду</string>
+    <string name="nosourcesince_desc">Вихідний код більше недоступний, оновлення неможливі.</string>
+    <string name="nonfreeadd_name">Невільні доповнення</string>
+    <string name="nonfreeadd_desc">Цей модуль просуває невільні доповнення.</string>
+    <string name="nonfreeassets_name">Невільні ресурси</string>
+    <string name="nonfreeassets_desc">Цей модуль містить невільні ресурси.</string>
+    <string name="nonfreedep_name">Невільні залежності</string>
+    <string name="nonfreedep_desc">Цей модуль залежить від інших невільних модулів.</string>
+    <string name="nonfreenet_name">Невільні мережеві служби</string>
+    <string name="nonfreenet_desc">Цей модуль просуває або повністю залежить від незмінюваної чи невільної мережевої служби.</string>
+    <string name="tracking_name">Відстеження</string>
+    <string name="tracking_desc">Цей модуль відстежує та повідомляє про вашу активність.</string>
+    <string name="upstreamnonfree_name">Невільний першоджерельний код</string>
+    <string name="upstreamnonfree_desc">Першоджерельний вихідний код не є повністю вільним.</string>
+    <string name="obfuscation_name">Обфускація</string>
+    <string name="obfuscation_desc">Вихідний код модуля може бути обфускований, що ускладнює його розуміння, аудит чи зміну.</string>
+    <string name="unaskedremoval_name">Небажане видалення</string>
+    <string name="unaskedremoval_desc">Модуль видаляє застосунки, файли чи інші модулі без згоди користувача.</string>
+    <string name="llm_name">Велика мовна модель</string>
+    <string name="llm_desc">Модуль, можливо, частково або повністю написаний LLM</string>
+    <string name="closedsource_name">Закритий код</string>
+    <string name="closedsource_desc">Модуль не є з відкритим кодом, і його кодова база недоступна для громадськості для перегляду, зміни чи розповсюдження</string>
 </resources>

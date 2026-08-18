@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="requireNewVersion_try_the_following">다음을 시도해 보세요:</string>
+    <string name="requireNewVersion_refresh">새로 고침</string>
+    <string name="requireNewVersion_try_the_following_two">가능한 해결 방법에 대해 모듈 개발자에게 문의하세요.</string>
+    <string name="requireNewVersion_cannot_load_webui">WebUI를 로드할 수 없습니다</string>
+    <string name="requireNewVersion_require_text">최소 MMRL &gt;= 버전이 필요합니다</string>
+    <string name="requireNewVersion_try_the_following_one">Google Play 또는 GitHub Releases에서 MMRL을 최신 버전으로 업데이트하세요.</string>
 </resources>
